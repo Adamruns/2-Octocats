@@ -1,0 +1,39 @@
+ul{
+display:inline-flex
+}
+.octocat{
+margin 20 px;}
+.octocat{
+display:inline-block}
+}
+.image-footer:after{
+position:absolute;
+border-style: solid;
+border-color:grey
+
+}
+.image-number{
+  color:grey
+}
+.image-caption{
+display:inline
+}
+img{
+  width:100%;
+  border: solid 2px grey
+}
+.authors img{
+width:20px;
+border:none;
+border-radius: 5px;
+}
+.authors{
+  float:right;
+span{
+  color:#black;
+  font-size: 1px;
+  padding-right: 1px;
+.image-footer{
+border-bottom: grey solid 1px;
+padding-bottom: 15px;
+}
